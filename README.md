@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=%E2%9C%A8Full%20Stack%20developer&fontAlign=80&fontColor=F5FFFA&fontSize=25&animation=fadeIn&color=0:a100f2,100:f20089"/>  
   <img src="https://readme-typing-svg.herokuapp.com?font=Exo&weight=600&pause=1000&color=f20089&vCenter=true&lines=👋+Hello%2C+my+name+is+Caroline+Flores..."/>
 </p>
 
