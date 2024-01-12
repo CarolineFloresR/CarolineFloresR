@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo&weight=600&pause=1000&color=f20089&vCenter=true&lines=👋+Hello%2C+my+name+is+Caroline+Flores..."/>
-</p>
+
 
 <p align="center">
     <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
