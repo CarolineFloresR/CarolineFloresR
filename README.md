@@ -18,6 +18,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/CarolineFloresR/CarolineFloresR/output/snake.svg" alt="Snake animation" />
+
 
 
