@@ -1,4 +1,4 @@
-<p align="center">👋 Olá, eu sou Caroline Flores!<br><br>🎓 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, com foco em programação front-end e back-end. Adoro aprender novas tecnologias e aplicar conhecimentos em projetos práticos.<br><br>🌱 Estou sempre em busca de desafios e oportunidades para crescer como desenvolvedora. Sinta-se à vontade para conferir meus projetos !</p>
+<p align="center">👋 Olá, eu sou Caroline Flores!<br><br>🎓 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, com foco em programação front-end e back-end. Adoro aprender novas tecnologias e aplicar conhecimentos em projetos práticos.<br><br>🌱 Estou sempre em busca de desafios e oportunidades para crescer como desenvolvedora. </p>
 
 ###
 
